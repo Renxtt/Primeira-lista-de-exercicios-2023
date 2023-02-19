@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <math.h>
-
+//6. Escreva um programa que leia o pre√ßo de um produto e a quantidade comprada e exiba o valor total da compra.
 int main(void){
-	/*ler preÁo*/
+	/*ler pre√ßo*/
 	float pre, quant, resu;
 	
 	char pro[40];
@@ -11,7 +11,7 @@ int main(void){
 	scanf("%s", &pro);
 	
 	/*ler o produto*/
-	printf("qual o preÁo do produto que vc comprou?:");
+	printf("qual o pre√ßo do produto que vc comprou?:");
 	scanf("%f", &quant);
 	
 	/*ler quantidade de produtos comprados*/
