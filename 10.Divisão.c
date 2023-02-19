@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//Escreva um programa que leia dois números inteiros e exiba o resultado da divisão inteira desses números.
 main(void){
 	/*leia dois numeros inteiros diferentes*/
 	int num, numb, result;
@@ -11,9 +11,9 @@ main(void){
 	scanf("%d", &numb);
 	
 	
-	/*exibir a divis�o inteira desses numeros */
+	/*exibir a divisão inteira desses numeros */
 	result=(num/numb);
-	printf("esse � o resultado da sua divis�o:%d", result);
+	printf("esse é o resultado da sua divisão:%d", result);
 	
 	return 0;
 	
