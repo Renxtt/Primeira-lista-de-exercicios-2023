@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h.>
-
+//Escreva um programa que leia o raio de um círculo e calcule sua área e seu perímetro.
 
 main(void){
 	
@@ -15,7 +15,7 @@ main(void){
 	
 	
 	
-//	printf("Qual � o expoente:");
+//	printf("Qual é o expoente:");
 //	scanf("%d", &expo);
 	
 	printf("Qual o Raio do seu Circulo:");
@@ -34,7 +34,7 @@ main(void){
 	resultt=(13.4*raio);
 //	resulttt=(result*2);
 	
-	printf("\nja o perimetro � pi vezes 2 vezes o raio!!");
+	printf("\nja o perimetro é pi vezes 2 vezes o raio!!");
 	printf("\nOque da %f", resultt);
 	
 	return 0;
