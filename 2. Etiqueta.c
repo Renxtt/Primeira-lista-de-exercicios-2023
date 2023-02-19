@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Elabore um programa que pede seu nome, endereço, CEP e telefone. Ele deve imprirmir seu nome completo na primeira linha, seu endereço na segunda, e o CEP e telefone na terceira.
 int main(void){
 	char nome[40], ender[40], cep[40], tel[40];
 	
