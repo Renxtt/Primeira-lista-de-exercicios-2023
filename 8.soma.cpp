@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//Escreva um programa que leia dois números inteiros e exiba a soma desses números na tela.
 main(void){
 	
 	int nub, nub2, plus, ves;
@@ -18,7 +18,7 @@ main(void){
 	ves=nub*nub2;
 	
 	printf("\no primeiro numero escolhido foi %d, o segundo escolhido foi %d", nub, nub2);
-	printf("\na soma dos dois numeros escolhidos teve o resultade de %d e a multiplicac�o dos numeros escolhidos foi %d", plus, ves);
+	printf("\na soma dos dois numeros escolhidos teve o resultade de %d e a multiplicacão dos numeros escolhidos foi %d", plus, ves);
 	
 	return 0;
 }
