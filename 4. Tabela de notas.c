@@ -1,7 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+/*Escreva um programa que produza a seguinte saída na tela:
 
+`ALUNO(A)          NOTA
+=========         =====
+ALINE              9.0  
+MÁRIO              DEZ
+SÉRGIO             4.5    
+SHIRLEY            7.0`*/
 
 int main(){
 	char nome_aluno[40], nome_aluno2[40], nome_aluno3[40], nome_aluno4[40], nome_aluno5[40];
