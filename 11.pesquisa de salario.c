@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-
+//Escreva um programa que leia o nome, o salário e o ano de nascimento de uma pessoa e exiba essas informações na tela.
 int main(void){
 	/*ler o nome da pessoa*/
 	
@@ -22,7 +22,7 @@ int main(void){
 	scanf("%s", &nacs);
 	
 	
-	/*exiba essas informa��es na tela*/
+	/*exiba essas informações na tela*/
 	printf("\nNome:%s\nData de nascimento:%s\nSalario:%s", nome, nacs, salar);
 
 
